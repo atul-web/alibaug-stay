@@ -78,7 +78,7 @@ body.hotale-boxed .hotale-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .hotale-logo.hotale-item-pdlr{ padding-left: 20px; } 
 .hotale-logo-inner{ max-width: 170px; margin-top:-15px; } 
 @media only screen and (max-width: 999px){ .hotale-mobile-header .hotale-logo-inner{ max-width: 116px; } } 
-@media only screen and (max-width: 767px){ .hotale-mobile-header .hotale-logo-inner{ max-width: 195px; margin-left:-60px;margin-top:5px; } } 
+@media only screen and (max-width: 767px){ .hotale-mobile-header .hotale-logo-inner{ max-width: 195px; margin-left:-35px;margin-top:5px; } } 
 .hotale-navigation{ padding-top: 37px; }.hotale-navigation-top{ top: 37px; } 
 .hotale-navigation .sf-menu > li > a{ padding-bottom: 37px; } 
 .hotale-navigation .hotale-main-menu{ padding-right: 20px; } 
@@ -88,7 +88,7 @@ body.hotale-boxed .hotale-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .hotale-main-menu-cart{ margin-top: -3px; } 
 .hotale-header-side-content, #hotale-side-content-menu{ background-color: #ffffff; } 
 #hotale-side-content-menu{ box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.08); -webkit-box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.08); } 
-.hotale-fixed-navigation.hotale-style-slide .hotale-logo-inner img{ max-height: none !important; }.hotale-animate-fixed-navigation.hotale-header-style-plain .hotale-logo-inner, .hotale-animate-fixed-navigation.hotale-header-style-boxed .hotale-logo-inner{ max-width: 160px; }.hotale-mobile-header.hotale-fixed-navigation .hotale-logo-inner{ max-width: 116px; } 
+.hotale-fixed-navigation.hotale-style-slide .hotale-logo-inner img{ max-height: none !important; }.hotale-animate-fixed-navigation.hotale-header-style-plain .hotale-logo-inner, .hotale-animate-fixed-navigation.hotale-header-style-boxed .hotale-logo-inner{ max-width: 160px; }.hotale-mobile-header.hotale-fixed-navigation .hotale-logo-inner{ max-width: 170px; } 
 .hotale-animate-fixed-navigation.hotale-header-style-plain .hotale-logo, .hotale-animate-fixed-navigation.hotale-header-style-boxed .hotale-logo{ padding-top: 23px; } 
 .hotale-animate-fixed-navigation.hotale-header-style-plain .hotale-logo, .hotale-animate-fixed-navigation.hotale-header-style-boxed .hotale-logo{ padding-bottom: 0px; } 
 .hotale-animate-fixed-navigation.hotale-header-style-plain .hotale-navigation, .hotale-animate-fixed-navigation.hotale-header-style-boxed .hotale-navigation{ padding-top: 25px; }.hotale-animate-fixed-navigation.hotale-header-style-plain .hotale-navigation-top, .hotale-animate-fixed-navigation.hotale-header-style-boxed .hotale-navigation-top{ top: 25px; }.hotale-animate-fixed-navigation.hotale-navigation-bar-wrap .hotale-navigation{ padding-top: 25px; } 
